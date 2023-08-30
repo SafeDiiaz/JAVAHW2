@@ -2,7 +2,7 @@ public class Task1 {
     public static void main(String[] args) {
         int amount = 13_676;
         int mile = amount / 20;
-        System.out.println( "Вам начислено " + mile + " миль");
+        System.out.println("Стоимость билета " +amount + "рублей. Вам начислено " + mile + " миль");
 
 
         // Объявляете переменные для входных данных и
